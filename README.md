@@ -1,5 +1,5 @@
 # 💫 About Me:
-Electrical Engineering student at Universidad Nacional de Colombia (Bogotá), Web Developer Jr, Media Producer. I have a special interest in programming with C/C++/C#, Android development, Game Development, Computational Physics, Machine Learning -and so on :)
+Electrical Engineering student at Universidad Nacional de Colombia (Bogotá), Web Developer Jr, Media Producer. I have a special interest in programming with C/C++/C#, Game Development, Computational Physics, and Electrical Design.
 
 
 ## 🌐 Socials:
